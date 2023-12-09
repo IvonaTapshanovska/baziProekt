@@ -4,5 +4,5 @@ In the "About" section, you will find a comprehensive link that takes you throug
 Upon accessing the provided link, you'll notice a "Browse Source" section located at the upper right corner. This feature allows you to explore the code implementation of the project, enabling you to review and analyze the source code directly from the repository.
 
 Created by:
-+ Ivona Tapshanovska,
++ Ivona Tapshanovska
 + Matej Popovikj
